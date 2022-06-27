@@ -75,6 +75,7 @@ namespace sendsms_vote
                         {
                             ///رای نداده
                             ///
+                            //////
                             int r = -1;
                             string random_text = RandomText(); 
                             sms_srv.Message msg = new sms_srv.Message();
